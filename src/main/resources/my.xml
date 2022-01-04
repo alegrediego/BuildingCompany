@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee Nationality = "Argentinian">
+        <name> Carlos Alvarez </name>
+        <gender>Male</gender>
+        <dateofadmission>20121205</dateofadmission>
+    </employee>
+
+    <employee Nationality="Venezuelan">
+        <name> Marta Ramirez </name>
+        <gender> Female </gender>
+        <dateofadmission>20121205</dateofadmission>
+    </employee>
+
+    <employee Nationality="Argentinian">
+        <name> Claudia Gonzalez </name>
+        <gender> Female </gender>
+        <dateofadmission>20181020</dateofadmission>
+    </employee>
+</employees>
